@@ -1,0 +1,7 @@
+#WML_API_KEY="6uiDnxZzqv6BQ4lou_tI2yvdS1ftvK8mVjupLDXnTaz6"
+WML_API_KEY="s5pSowRPuU4CRi6rtHZDmtlHcJ4g7POrT3iBJJAIqti9"
+WML_INSTANCE_ID="d9063d94-2b0b-41bc-8235-cc2cdbff0096"
+WML_URL="https://us-south.ml.cloud.ibm.com"
+WML_SCORING_URL="https://us-south.ml.cloud.ibm.com/ml/v4/deployments/798168a3-c688-4633-81e8-659b2b627be8/predictions?version=2022-12-04"
+AUTH_URL="https://iam.bluemix.net.identity/token"
+#AUTH_URL="https://iam.cloud.ibm.com/identity/token"
